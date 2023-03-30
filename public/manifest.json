@@ -1,6 +1,6 @@
 {
-  "name": "Todo list",
-  "short_name": "Todo",
+  "name": "Tools",
+  "short_name": "Tools",
   "theme_color": "#c835f6",
   "background_color": "#c835f6",
   "display": "standalone",
